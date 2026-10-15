@@ -1,0 +1,1 @@
+import{bD as c}from"index-libyenqs.js";const t=c("buy",{state:()=>({isBackBuyFromAddUpi:!1,bindUpiAccount:""}),actions:{changeBackBuyFromAddUpi(i){this.isBackBuyFromAddUpi=i},changeBindUpiAccount(i){this.bindUpiAccount=i}}});export{t as u};

@@ -1,0 +1,1 @@
+import{d as e,aD as t,ai as o,e as r,aj as n}from"index-libyenqs.js";const s="100%",d={round:Boolean,rowWidth:{type:t,default:s}},[l,p]=o("skeleton-paragraph");var i=e({name:l,props:d,setup(a){return()=>r("div",{class:p([{round:a.round}]),style:{width:a.rowWidth}},null)}});const u=n(i);export{u as S};

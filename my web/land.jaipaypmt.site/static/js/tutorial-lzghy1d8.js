@@ -1,0 +1,1 @@
+import{ba as t}from"index-libyenqs.js";function a(e){return t.request({url:"/pay/tutorial/list",method:"post",data:{tags:e??""},config:{noLoading:!0}})}function r(){return t.request({url:"/pay/tutorial/getRevenue",method:"post",data:{},config:{noLoading:!0}})}export{a,r as g};
